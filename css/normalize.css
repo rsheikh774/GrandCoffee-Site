@@ -1,13 +1,4 @@
-/*! normalize.css v6.0.0 | MIT License | github.com/necolas/normalize.css */
 
-/* Document
-   ========================================================================== */
-
-/**
- * 1. Correct the line height in all browsers.
- * 2. Prevent adjustments of font size after orientation changes in
- *    IE on Windows Phone and in iOS.
- */
 
 html {
   line-height: 1.15; /* 1 */
@@ -97,10 +88,7 @@ a {
   -webkit-text-decoration-skip: objects; /* 2 */
 }
 
-/**
- * 1. Remove the bottom border in Chrome 57- and Firefox 39-.
- * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
- */
+
 
 abbr[title] {
   border-bottom: none; /* 1 */
